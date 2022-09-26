@@ -1,13 +1,13 @@
 # IntelliJTemplate
 A simple template from which to fork a new IntelliJ project.
 
-See the wood for the trees:
+To see the wood for the trees:
+* [The brief](#the-brief)
 * [The Plan](#the-plan)
-* [The Design](#the-design)
 * [The Result](#the-result)
 
-## The Plan
+## The Brief
 
-## The Design
+## The Plan
 
 ## The Result
